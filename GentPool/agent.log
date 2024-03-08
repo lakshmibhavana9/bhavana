@@ -1,0 +1,37 @@
+INFO:root:Creating Config from file: ./gentpool/pool/jack3/agent.yaml
+INFO:root:Starting to load configuration from ./gentpool/pool/jack3/agent.yaml
+INFO:root:Successfully loaded configuration from ./gentpool/pool/jack3/agent.yaml
+INFO:root:--------------------
+INFO:root:[green]Welcome to Gentopia!
+INFO:root:--------------------
+INFO:root:[green]User: 
+INFO:root:jack3 is thinking...
+INFO:root:Done
+INFO:root:[blue]jack3: 
+INFO:root:Hello! How can I assist you today?
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:jack3 is thinking...
+INFO:root:Done
+INFO:root:[blue]jack3: 
+INFO:root:{"name":"pdf_read", "arguments":{
+  "file_path": "Resume_Bhavana.pdf"
+}}
+
+INFO:root:Calling function: pdf_read ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:                                                         Lakshmi Bhavana Talapaneni                          Fairfax, VA, US | Open to Relocation | (571) 567-0209 | lakshmibhavanat@gmai.com  Education    George mason university  Fairfax,VA Master of  Computer Science and Engineering, GPA: 3.67/4 Aug 2023 – Present Coursework: Natural Language Processing, Machine Learning, Computational Linguistics, Analysis of Algorithms, DMQL Anna University Chennai, India Bachelor of Technology in Computer Science Engineering, GPA: 3.65/4 Aug. 2018 – Jun. 2022 Coursework: Deep Learning, Data Structures and Algorithms, Python Programming, Object Oriented Programming, JAVA Skills  • Programming Languages: C, Python, JAVA, Front-End Development • Frameworks: PyTorch, TensorFlow, Keras, NLP, Transformers, Scikit-learn, Apache Hadoop, Apache Spark, Apache Hive Experience  Microsoft Gold Partner  Machine learning with python, Intern sep 2020 – nov 2020 Owned Project: Unemployment due to covid in India using data analysis • Collaborated with a team of data scientists and data engineers, to segregate customers of a website in the India  Domain. • Leveraged K-Means to segregate customers quantitatively and qualitatively, based on Geographic, Behavioral, Technographic info. Tech Stack: Python, TensorFlow, PyTorch, Scikit-learn, Numpy, Plotly Projects  TOURISM WEBSITE • Led the end-to-end development and implementation of a tourism website aimed at promoting travel destinations and facilitating trip planning. • Conducted comprehensive planning, outlining project objectives, identifying the target audience, and researching competitors to ensure a strategic approach. • Designed an intuitive and visually appealing user interface, prioritizing mobile responsiveness and incorporating engaging visuals such as high-quality images, videos, and interactive maps. • Integrated analytics tools such as Google Analytics to track user behavior, providing valuable insights for continuous improvement. Tech Stack: HTML5,CSS, Bootstrap,Javascript node.js,python,Analytics Sentiment Analysis of User Reviews on Movies • Designed a system to automatically determine the sentiment) of user reviews on movies, facilitating a more streamlined understanding of audience reception. • Conducted text cleaning, tokenization, and normalization; transformed reviews into numerical vectors using TF-IDF and word embeddings. • Utilized N-gram analysis to identify sentiment patterns in user reviews. Employed word embeddings like Word2Vec to capture semantic relationships between words. • Trained multiple machine learning algorithms including Logistic Regression, Random Forest, and LSTM Neural Networks, achieving peak accuracy of 92.3% with LSTM network. Tech Stack: Python, Scikit-learn, NLTK, BeautifulSoup, TensorFlow/Keras.  Publication  BLIND HURDLE STICK: - Android Integrated Voice-based Intimation via GPS with Panic alert.    – INT-JECSE Vol 14 Issue 02, 2022 • Engineered an Android application that leverages GPS technology for real-time location tracking, offering voice-based intimation to guide users safely through various environments. • Implemented SIM card integration to enable real-time communication and emergency alerts, ensuring users can swiftly seek assistance in critical situations. • Conducted rigorous testing and debugging to guarantee the reliability of GPS tracking, voice features, and SIM card functionality, addressing technical challenges for optimal performance.  
+INFO:root:--------------------
+INFO:root:jack3 is thinking...
+INFO:root:Done
+INFO:root:[blue]jack3: 
+INFO:root:The document is a resume of Lakshmi Bhavana Talapaneni. She is currently pursuing a Master's degree in Computer Science and Engineering at George Mason University, with a GPA of 3.67/4. Her coursework includes Natural Language Processing, Machine Learning, Computational Linguistics, Analysis of Algorithms, and DMQL. She completed her Bachelor of Technology in Computer Science Engineering from Anna University, Chennai, India, with a GPA of 3.65/4.
+
+Her skills include programming languages like C, Python, JAVA, and Front-End Development. She is also proficient in frameworks like PyTorch, TensorFlow, Keras, NLP, Transformers, Scikit-learn, Apache Hadoop, Apache Spark, and Apache Hive.
+
+She has experience as an intern at Microsoft Gold Partner, where she worked on a project related to unemployment due to COVID in India using data analysis. She collaborated with a team of data scientists and data engineers to segregate customers of a website in India.
+
+She has led the development and implementation of a tourism website and designed a system for sentiment analysis of user reviews on movies. She has also published a paper on an Android application that leverages GPS technology for real-time location tracking, offering voice-based intimation to guide users safely through various environments.
+INFO:root:Done
+INFO:root:[green]User: 
